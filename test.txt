@@ -1,0 +1,5 @@
+##*[href*="daum1003"]
+##*[href*="pha-aaa"]
+##*[href*="4J6uLx"]
+##*[href*="newchat"]
+##*[href*="napdod"]
