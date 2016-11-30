@@ -3,3 +3,8 @@
 ##*[href*="4J6uLx"]
 ##*[href*="newchat"]
 ##*[href*="napdod"]
+##a[href="http://daum1003.com/"]
+##a[href="http://pha-aaa.com/"]
+##a[href="https://goo.gl/4J6uLx"]
+##a[href="http://newchat.napdod.com/chat" target="_blank"]
+##a[href="http://newchat.napdod.com/chat"]
